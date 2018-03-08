@@ -1,1 +1,1 @@
-# Joystick-ardino
+# Joystick-arduino
